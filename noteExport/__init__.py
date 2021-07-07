@@ -1,3 +1,3 @@
 from flask import Flask
-import routes
-app = routes.app
+from routes import app
+app = app 
