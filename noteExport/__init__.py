@@ -1,3 +1,3 @@
 from flask import Flask
-from noteExport import routes
+import routes
 app = routes.app
