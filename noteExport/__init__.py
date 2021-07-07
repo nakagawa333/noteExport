@@ -1,3 +1,3 @@
 from flask import Flask
-from routes import app
-app = app 
+from noteExport.routes import app
+app = app

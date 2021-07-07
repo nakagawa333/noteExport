@@ -1,7 +1,7 @@
 import requests
 import json
 from bs4 import BeautifulSoup
-from requestsSession import RequestsSession
+from noteExport.requestsSession import RequestsSession
 import math
 
 def isStr(val):
