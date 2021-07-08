@@ -1,2 +1,0 @@
-# noteExport
-note エクスポートツール
