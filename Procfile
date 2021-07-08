@@ -1,1 +1,1 @@
-web: gunicorn noteExport: run --log-file -
+web: gunicorn noteExport:run
