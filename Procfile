@@ -1,1 +1,1 @@
-web: gunicorn noteExport:run
+web: gunicorn noteExport:app
